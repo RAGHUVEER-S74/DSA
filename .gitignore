@@ -1,4 +1,6 @@
+# C compiled files
 *.exe
 *.obj
 *.pdb
 *.ilk
+*.out
